@@ -1,5 +1,5 @@
 # minecraftBot
-its a bot that plays minecraft
+its a bot that plays minecraft, made in c++
 ---
 it is almost guaranteed that this will not work for you, it reads minecraft memory and sends inputs through the keyboard (mainly using ahk) to send baritone[(mc pathfinder)](https://github.com/cabaletta/baritone) commands
 ---
@@ -20,7 +20,7 @@ it is almost guaranteed that this will not work for you, it reads minecraft memo
 - will craft crafting tables when it cant find one
 - You have to manually find the last message sent memory address (using cheat engine or smn) when you start the bot
 - You have to specify the file path of the ahk rebind script
-- - this script rebinds F buttons (F13 - F26) so that minecraft reconizes them (idk why it doesnt normally)
+  - this script rebinds F buttons (F13 - F26) so that minecraft reconizes them (idk why it doesnt normally)
 
 ---
-
+### this by no means should be used, the code is very ugly and i just made it cause i was bored
